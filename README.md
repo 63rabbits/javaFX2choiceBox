@@ -2,7 +2,7 @@
 
 ChoiceBox By JavaFX2.
 
-Display English and Japanese by cocktail name.
+Display English and Japanese by cocktail name.  
 Process in the following three ways.
 
 * Event Handler ... Execute processing by pressing a button.
