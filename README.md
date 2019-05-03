@@ -9,4 +9,4 @@ Process in the following three ways.
 * Bind(High-level API) ... Process in real time. But it can not display Japanese.
 * Bind(Low-level API) ... Process in real time.
 
-![javaFX2choiceBox](https://github.com/63rabbits/javaFX2choiceBox/blob/master/javaFX2choiceBox.png?raw=true)
+![javaFX2choiceBox](/javaFX2choiceBox.png)
