@@ -1,6 +1,6 @@
 # javaFX2choiceBox
 
-ChoiceBox By JavaFX2.
+ChoiceBox by JavaFX2.
 
 Display English and Japanese by cocktail name.  
 Process in the following three ways.
